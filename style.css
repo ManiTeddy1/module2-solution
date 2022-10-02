@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     padding: 30px;
@@ -67,4 +68,9 @@ p {
     width: 50%;
 }
 .three_col:last-child{ width: 100%; }
+
+body {
+    margin: 0;
+    padding: 30px;
 }
+
